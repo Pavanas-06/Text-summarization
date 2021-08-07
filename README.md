@@ -13,3 +13,6 @@ There is an huge amount of textual data, and it’s only growing every single mi
 <a href="https://frontend.code-inspector.com/public/user/github/Pavanas-06">
    <img src="https://code-inspector.com/public/badge/user/github/Pavanas-06?style=light" alt="code inspector badge" />
 </a>
+
+### Future enhancement
+Adding the voice output to the summary and adopting the query based techniques.
