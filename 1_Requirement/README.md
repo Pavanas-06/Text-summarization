@@ -44,7 +44,7 @@ A NPL will helps in identifying the most important words as well as sentences in
 |1|Algorithm |Done|
 |2|Input file |Done|
 |3|Implementation |Done|
-|4|Code should work |done|
+|4|Code should work |working|
 ### Low level Requirements:
 | ID        | Description           | Status   |
 | ------------- |:-------------:| -----:|
