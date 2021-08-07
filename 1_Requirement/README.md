@@ -25,8 +25,6 @@ The intention is to create a coherent and fluent summary having only the main po
 ## SWOT ANALYSIS
 ![alt text](https://github.com/Pavanas-06/Text-summarization/blob/main/1_Requirement/SWOT%20analysis.JPG)
 
-
-
 ## 4W's and 1'H
 ### Who:
 This will be helpful for different kinds of peoples(students, spokespersons) as well as for some organization(schools, research institutes).  
@@ -39,4 +37,20 @@ Determine essential ideas and consolidate important details that support them. I
 ### How:
 A NPL will helps in identifying the most important words as well as sentences in the whole document and summarises the document. It inturn helps in reduction in reading time and picks up only the relevant information.
  
+## Detail requirements
+#### High Level Requirements:
+| ID        | Description           | Status  |
+| ------------- |:-------------:| -----:|
+|1|Choosing the algorithm||Done|
+|2|Getting the input text file||Done|
+|3|Implementation |Done|
+|4|Code should work |working|
+### Low level Requirements:
+| ID        | Description           | Status   |
+| ------------- |:-------------:| -----:|
+| 01    | Creation of word frequency table | Implemented |
+| 02    | tokenize the sentences|   Implemented |
+| 03    | Score sentence    |    Implemented |
+| 04    | Find threshold | Implemented |
+| 05    | Summary generation  |   Implemented |
 
