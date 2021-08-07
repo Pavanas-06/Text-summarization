@@ -9,3 +9,7 @@ There is an huge amount of textual data, and it’s only growing every single mi
 | Design    | 	Documents specifying design details | 
 | Implementation    | All code and documentation      |   
 | Test_plan    |Documents with test plans and procedures |
+
+<a href="https://frontend.code-inspector.com/public/user/github/Pavanas-06">
+   <img src="https://code-inspector.com/public/badge/user/github/Pavanas-06?style=light" alt="code inspector badge" />
+</a>
