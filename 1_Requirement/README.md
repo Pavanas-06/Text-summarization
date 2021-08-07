@@ -1,10 +1,8 @@
-
 # Requirements
 ## Introduction
 There is an huge amount of textual data, and it’s only growing every single minute.
 Think of the network which is comprised of several web pages, status, blogs, videos, articles and much more.
 These kind of data is unstructured and the best thing that we can do is to navigate through the documents then search and skim the results. Nowadays Human beings have limited cognitive capacity for performing certain tasks.
-
 
 ## Research
 -A An Overview of Text Summarization Techniques”, Narendra Andhale, Department of Computer Engineering Vishwakarma Institute of Information Technology Pune, India L.A. Bewoor, Department of Computer Engineering Vishwakarma Institute of Information Technology Pune, India.
@@ -21,6 +19,7 @@ These kind of data is unstructured and the best thing that we can do is to navig
 -The most important advantage of using a summary is ,it reduces the reading time.
 ## Defining the System
 The intention is to create a coherent and fluent summary having only the main points outlined in the document
+
 ## SWOT ANALYSIS
 ![alt text](https://github.com/Pavanas-06/Text-summarization/blob/main/1_Requirement/SWOT%20analysis.JPG)
 
@@ -37,14 +36,14 @@ Determine essential ideas and consolidate important details that support them. I
 A NPL will helps in identifying the most important words as well as sentences in the whole document and summarises the document. It inturn helps in reduction in reading time and picks up only the relevant information.
  
 ## Detail requirements
-#### High Level Requirements:
+### High Level Requirements-
 | ID        | Description           | Status  |
 | ------------- |-------------| -----|
 |1|Algorithm |Done|
 |2|Input file |Done|
 |3|Implementation |Done|
 |4|Code should work |working|
-### Low level Requirements:
+### Low level Requirements-
 | ID        | Description           | Status   |
 | ------------- |-------------| -----|
 | 01    | Creation of word frequency table | Implemented |
