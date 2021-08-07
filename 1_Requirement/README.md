@@ -41,10 +41,10 @@ A NPL will helps in identifying the most important words as well as sentences in
 #### High Level Requirements:
 | ID        | Description           | Status  |
 | ------------- |:-------------:| -----:|
-|1|Choosing the algorithm||Done|
-|2|Getting the input text file||Done|
+|1|Algorithm |Done|
+|2|Input file |Done|
 |3|Implementation |Done|
-|4|Code should work |working|
+|4|Code should work |done|
 ### Low level Requirements:
 | ID        | Description           | Status   |
 | ------------- |:-------------:| -----:|
