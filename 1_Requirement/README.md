@@ -7,4 +7,4 @@ These kind of data is unstructured and the best thing that we can do is to navig
 
 
 System_design
-[image] "https://github.com/Pavanas-06/Text-summarization/blob/main/1_Requirement/system_design.docx"
+[image](https://github.com/Pavanas-06/Text-summarization/blob/main/Capture.JPG)
