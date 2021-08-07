@@ -23,7 +23,7 @@ These kind of data is unstructured and the best thing that we can do is to navig
 ## Defining the System
 The intention is to create a coherent and fluent summary having only the main points outlined in the document
 ## SWOT ANALYSIS
-![alt text](https://github.com/honey-16hc/Pothole_Detection_Mini_Project/blob/main/1_Requirements/swot%20analysis.jpg?raw=true)
+
 
 ## 4W's and 1'H
 ### Who:
