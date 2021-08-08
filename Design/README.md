@@ -1,4 +1,7 @@
 # Design of overall Text summarization system
+## Overall system design 
+![Overall system design](https://github.com/Pavanas-06/Text-summarization/blob/main/Capture.JPG)
+
 
 ## Behavior Diagrams
 ### High Level Behavioural Diagram
